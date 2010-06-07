@@ -1,0 +1,21 @@
+Steps how to deploy TTT
+	for i368
+		1  from xcode open info.plist "open with finder"
+			1 SUFeedURL check to current .../i368/...xml
+			2 CFBundleVersion + 1
+			3 CFBundleShortVersionString if needed
+			:dont forget to safe
+		2  Build -> clean all
+		3  Build
+		4  Reveal TimeToTicket.app in finder and in iterm
+		6  run TimeToTicket.app/Contents/Resources/deploy.rb to  standalonify evertything
+		7  Run TTT and check about for correct version
+		8  Test TTT
+		9  Zip TTT and rename to TimeToTicket_versionnumber.zip
+		10 Change the appcast.xml with new item
+		11 Copy the new zip and the updated appcast.xml to the i368 appcast dir
+		12 create new svn Tag TimeToTicket_versionnumber
+		13 Commit everything
+	for ppc
+		do the same but replace i386 with ppc
+

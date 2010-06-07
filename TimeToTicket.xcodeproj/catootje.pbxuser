@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecture = ppc;
+		activeBuildConfigurationName = Release;
+		activeExecutable = EDDC29180DD584390075FFF5 /* TimeToTicket */;
+		activeTarget = 4DDCA7030ACC9A6100E082CE /* TimeToTicket */;
+		addToTargets = (
+			4DDCA7030ACC9A6100E082CE /* TimeToTicket */,
+		);
+		codeSenseManager = EDDC292B0DD584580075FFF5 /* Code sense */;
+		executables = (
+			EDDC29180DD584390075FFF5 /* TimeToTicket */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					456,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					416,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 232827859;
+			PBXWorkspaceStateSaveDate = 232827859;
+		};
+		sourceControlManager = EDDC292A0DD584580075FFF5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2DA824FD0DCFBE460074CA5E /* AppController.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 588}}";
+			sepNavSelRange = "{799, 0}";
+			sepNavVisRange = "{0, 998}";
+			sepNavWindowFrame = "{{84, 252}, {750, 558}}";
+		};
+	};
+	2DCE73BE0DD095BA00537F8E /* TODO.otl */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 407}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 540}";
+			sepNavWindowFrame = "{{107, 231}, {750, 558}}";
+		};
+	};
+	2DFAD6DC0DD1C74700F4B2D2 /* Issue.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{97, 0}";
+			sepNavVisRange = "{0, 217}";
+			sepNavWindowFrame = "{{142, -82}, {750, 558}}";
+		};
+	};
+	2DFAD6DE0DD1C74700F4B2D2 /* Project.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{101, 0}";
+			sepNavVisRange = "{0, 281}";
+			sepNavWindowFrame = "{{209, 50}, {750, 558}}";
+		};
+	};
+	4DDCA7030ACC9A6100E082CE /* TimeToTicket */ = {
+		activeExec = 0;
+		executables = (
+			EDDC29180DD584390075FFF5 /* TimeToTicket */,
+		);
+	};
+	E8F5E25803AEB7C803A81C6F /* rb_main.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 407}}";
+			sepNavSelRange = "{543, 0}";
+			sepNavVisRange = "{0, 544}";
+			sepNavWindowFrame = "{{61, 273}, {750, 558}}";
+		};
+	};
+	EDDC29180DD584390075FFF5 /* TimeToTicket */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TimeToTicket;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	EDDC292A0DD584580075FFF5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	EDDC292B0DD584580075FFF5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
